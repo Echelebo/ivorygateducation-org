@@ -40,7 +40,7 @@
                                 </div>
                                 <div class="contact-info-content">
                                     <h5>Call Us</h5>
-                                    <p>+2 34 123 4565 789</p>
+                                    <p>+2348137107935</p>
                                 </div>
                             </div>
                         </div>

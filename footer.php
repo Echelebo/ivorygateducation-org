@@ -73,10 +73,9 @@
                         </div>
                         <div class="col-md-6 align-self-center">
                             <ul class="footer-social">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://www.facebook.com/IvoryGateEducationCentreAbujaNigeria/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                
                             </ul>
                         </div>
                     </div>
