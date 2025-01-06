@@ -49,9 +49,8 @@
                     <div class="header-top-left">
                         <div class="header-top-social">
                             <span>Follow Us: </span>
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                            <a href="#"><i class="fab fa-youtube"></i></a>
+                            <a href="https://www.facebook.com/IvoryGateEducationCentreAbujaNigeria/"><i class="fab fa-facebook-f"></i></a>
+
                             <a href="#"><i class="fab fa-whatsapp"></i></a>
                         </div>
                     </div>
@@ -96,77 +95,18 @@
                                 <a class="nav-link dropdown-toggle-x active" href="/" data-bs-toggle="dropdown-x">Home</a>
 
                             </li>
+                            <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
+                            <<li class="nav-item"><a class="nav-link" href="/services">Our Services</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/career">Career</a></li>
 
-                            <li class="nav-item mega-menu dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Our Services</a>
-                                <div class="dropdown-menu fade-down">
-                                    <div class="mega-content">
-                                        <div class="container-fluid">
-                                            <div class="row">
-                                                <div class="col-12 col-sm-4 col-md-3">
-                                                    <h5>About Us</h5>
-                                                    <div class="menu-about">
-                                                        <a href="#" class="menu-about-logo"><img
-                                                                src="assets/img/logo/logo-light.png" alt=""></a>
-                                                        <p>we believe that every student deserves individualized support in reaching their personal education and career goals.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-12 col-sm-4 col-md-3">
-                                                    <h5>College</h5>
-                                                    <ul class="mega-menu-item">
-                                                        <li><a class="dropdown-item" href="/academictutoring">Academic Tutoring</a></li>
-                                                        <li><a class="dropdown-item" href="/enrichmentprograms">Enrichment Programs</a></li>
-                                                        <li><a class="dropdown-item"
-                                                                href="/collegeandcareer">College and Career Counseling</a>
-                                                        </li>
-                                                        <li><a class="dropdown-item" href="/specialeducation">Special Education Services</a></li>
-                                                        <li><a class="dropdown-item" href="/afterschoolprograms">After-School Programs</a></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="col-12 col-sm-4 col-md-3">
-                                                    <h5>Undergraduate</h5>
-                                                    <ul class="mega-menu-item">
-                                                        <li><a class="dropdown-item"
-                                                                href="/parentalsupport">Parental Support Services</a></li>
-                                                        <li><a class="dropdown-item" href="/extracurricular">Extracurricular Activities</a></li>
-                                                        <li><a class="dropdown-item" href="/onlinelearning">Online Learning Opportunities</a></li>
-                                                        <li><a class="dropdown-item"
-                                                                href="/assessmentandevaluation">Assessment and Evaluation</a></li>
-                                                        <li><a class="dropdown-item"
-                                                                href="/communityengagement">Community Engagement
-                                                                </a></li>
-                                                    </ul>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">About Us</a>
-                                <ul class="dropdown-menu fade-down">
-                                    <li><a class="dropdown-item" href="/about">About Us</a></li>
-
-
-                                    <li>
-                                        <a class="dropdown-item " href="/about">Meet Our Team</a>
-
-                                    </li>
-
-
-                                    <li><a class="dropdown-item" href="/about">Testimonials</a></li>
-
-                                </ul>
-                            </li>
-
+                            <li class="nav-item"><a class="nav-link" href="/resources">Free Resources</a></li>
                           <!--  <li class="nav-item ">
                                 <a class="nav-link dropdown-toggle-x" href="/blog" data-bs-toggle="dropdown-x">Our Blog</a>
 
                             </li> -->
-                            <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/contact">Contact Us</a></li>
                         </ul>
-                        <div class="nav-right">
+                       <!-- <div class="nav-right">
                             <div class="search-btn">
                                 <button type="button" class="nav-right-link search-box-outer"><i
                                         class="far fa-search"></i></button>
@@ -175,7 +115,7 @@
                                 <a href="/contact" class="theme-btn"><span
                                         class="fal fa-pencil"></span>Apply Now</a>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </nav>

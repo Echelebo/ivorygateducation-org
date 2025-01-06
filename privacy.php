@@ -69,7 +69,7 @@
                            <p>If you have any questions or concerns about this Privacy Policy or our practices regarding your personal information, please contact us at:</p>
                            <ul><li>Ivorygate Education Center</li>
                            <li>Email: contact@ivorygateeducation.org</li>
-                           <li>Phone: 0000000000000</li>
+                           <li>Phone: +2348137107935</li>
                            <li>Address: Lugbe, Abuja, Nigeria
                            </li>
 </ul>

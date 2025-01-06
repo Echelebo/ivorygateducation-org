@@ -368,7 +368,7 @@
 
 
 
-        <!-- event area -->
+        <!-- event area --
         <div class="event-area bg py-120">
             <div class="container">
                 <div class="row">

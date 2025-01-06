@@ -59,7 +59,7 @@ All payments are non-refundable unless otherwise stated.</p>
 
 <h4>Ivorygate Education Center</h4>
 <ul><li>Email: contact@ivorygateeducation.org</li>
-<li>Phone: (123) 456-7890</li>
+<li>Phone: +2348137107935</li>
 <li>Address: Lugbe, Abuja, Nigeria</li></ul>
 
 <p>Thank you for choosing Ivorygate Education Center for your educational journey!</p>

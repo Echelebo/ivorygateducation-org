@@ -75,7 +75,8 @@
                                     </div>
                                     <div class="col-md-5">
                                         <div class="about-quote">
-                                            <p>Ivorygate Education Center was established for the public benefit and it is recognized. Throughout our great history, Ivorygate has offered access to a wide range of academic opportunities.</p>
+                                            <p>IVORY GATE EDUCATION is on a mission to inspire and motivate young ones to
+                                            Desire, pursue and attain academic excellence and diligence for outstanding performance in SAT, JAMB, SSCE, SS1 Foundation Class, BECE (Junior WAEC), Common Entrance,Virtual/ Online Classes and Information Technology.</p>
                                             <i class="far fa-quote-right"></i>
                                         </div>
                                     </div>
@@ -88,7 +89,7 @@
                                     <div class="icon"><i class="fal fa-headset"></i></div>
                                     <div class="number">
                                         <span>Call Now</span>
-                                        <h6><a href="tel:+21236547898">+2 123 654 7898</a></h6>
+                                        <h6><a href="tel:+21236547898">+2348137107935</a></h6>
                                     </div>
                                 </div>
                             </div>
@@ -293,120 +294,9 @@
         <!-- testimonial area end -->
 
 
-        <!-- team-area -->
-        <div class="team-area py-120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 mx-auto">
-                        <div class="site-heading text-center">
-                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Our Teachers</span>
-                            <h2 class="site-title">Meet With Our <span>Teachers</span></h2>
-                            <p>#</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-lg-3">
-                        <div class="team-item wow fadeInUp" data-wow-delay=".25s">
-                            <div class="team-img">
-                                <img src="assets/img/team/01.jpg" alt="thumb">
-                            </div>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-whatsapp"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
-                            <div class="team-content">
-                                <div class="team-bio">
-                                    <h5><a href="#">Angela T. Vigil</a></h5>
-                                    <span>Associate Professor</span>
-                                </div>
-                            </div>
-                            <span class="team-social-btn"><i class="far fa-share-nodes"></i></span>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="team-item wow fadeInUp" data-wow-delay=".50s">
-                            <div class="team-img">
-                                <img src="assets/img/team/02.jpg" alt="thumb">
-                            </div>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-whatsapp"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
-                            <div class="team-content">
-                                <div class="team-bio">
-                                    <h5><a href="#">Frank A. Mitchell</a></h5>
-                                    <span>Associate Professor</span>
-                                </div>
-                            </div>
-                            <span class="team-social-btn"><i class="far fa-share-nodes"></i></span>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="team-item wow fadeInUp" data-wow-delay=".75s">
-                            <div class="team-img">
-                                <img src="assets/img/team/03.jpg" alt="thumb">
-                            </div>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-whatsapp"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
-                            <div class="team-content">
-                                <div class="team-bio">
-                                    <h5><a href="#">Susan D. Lunsford</a></h5>
-                                    <span>CEO & Founder</span>
-                                </div>
-                            </div>
-                            <span class="team-social-btn"><i class="far fa-share-nodes"></i></span>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="team-item wow fadeInUp" data-wow-delay="1s">
-                            <div class="team-img">
-                                <img src="assets/img/team/04.jpg" alt="thumb">
-                            </div>
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-whatsapp"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                            </div>
-                            <div class="team-content">
-                                <div class="team-bio">
-                                    <h5><a href="#">Dennis A. Pruitt</a></h5>
-                                    <span>Associate Professor</span>
-                                </div>
-                            </div>
-                            <span class="team-social-btn"><i class="far fa-share-nodes"></i></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- team-area end -->
 
 
-        <!-- partner area -->
-        <div class="partner-area bg pt-50 pb-50">
-            <div class="container">
-                <div class="partner-wrapper partner-slider owl-carousel owl-theme">
-                    <img src="assets/img/partner/01.png" alt="thumb">
-                    <img src="assets/img/partner/02.png" alt="thumb">
-                    <img src="assets/img/partner/03.png" alt="thumb">
-                    <img src="assets/img/partner/04.png" alt="thumb">
-                    <img src="assets/img/partner/01.png" alt="thumb">
-                    <img src="assets/img/partner/02.png" alt="thumb">
-                    <img src="assets/img/partner/04.png" alt="thumb">
-                </div>
-            </div>
-        </div>
-        <!-- partner area end -->
+
 
     </main>
 
