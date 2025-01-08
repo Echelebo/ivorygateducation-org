@@ -1,3 +1,6 @@
+<?php
+$page_title = "Privacy And Policy";
+?>
 <?php include('header.php');?>
 
 

@@ -1,3 +1,6 @@
+<?php
+$page_title = "Home";
+?>
 <?php include('header.php')?>
 <main class="main">
 
@@ -22,7 +25,7 @@
                                     <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
                                         <a href="/about" class="theme-btn">About Us<i
                                                 class="fas fa-arrow-right-long"></i></a>
-                                        <a href="/contact" class="theme-btn theme-btn2">Enquire Now<i
+                                        <a href="/contact" class="theme-btn theme-btn2">Contact Us<i
                                                 class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
@@ -48,7 +51,7 @@
                                     <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
                                         <a href="/about" class="theme-btn">About Us<i
                                                 class="fas fa-arrow-right-long"></i></a>
-                                        <a href="/contact" class="theme-btn theme-btn2">Enquire Now<i
+                                        <a href="/contact" class="theme-btn theme-btn2">Contact Us<i
                                                 class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
@@ -73,7 +76,7 @@
                                     <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
                                         <a href="/about" class="theme-btn">About Us<i
                                                 class="fas fa-arrow-right-long"></i></a>
-                                        <a href="/contact" class="theme-btn theme-btn2">Enquire Now<i
+                                        <a href="/contact" class="theme-btn theme-btn2">Contact Us<i
                                                 class="fas fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
@@ -208,7 +211,8 @@
                                     </div>
                                     <div class="col-md-5">
                                         <div class="about-quote">
-                                            <p>Ivorygate Education Center was established for the public benefit and it is recognized. Throughout our great history, Ivorygate has offered access to a wide range of academic opportunities. </p>
+                                            <p>IVORY GATE EDUCATION is on a mission to inspire and motivate young ones to
+                                            Desire, pursue and attain academic excellence and diligence for outstanding performance in SAT, JAMB, SSCE, SS1 Foundation Class, BECE (Junior WAEC), Common Entrance,Virtual/ Online Classes and Information Technology.</p>
                                             <i class="far fa-quote-right"></i>
                                         </div>
                                     </div>
@@ -221,7 +225,7 @@
                                     <div class="icon"><i class="fal fa-headset"></i></div>
                                     <div class="number">
                                         <span>Call Now</span>
-                                        <h6><a href="tel:+21236547898">+2 123 654 7898</a></h6>
+                                        <h6><a href="tel:+2348137107935">+2348137107935</a></h6>
                                     </div>
                                 </div>
                             </div>
@@ -505,12 +509,10 @@
                             <img src="assets/img/icon/monitor.svg" alt="">
                         </div>
                         <div class="department-info">
-                            <h4 class="department-title"><a href="/academictutoring">Academic Tutoring</a></h4>
-                            <p>One-on-one and group tutoring sessions across subjects (math, science, language arts, etc.).
-                            Test preparation for standardized tests (e.g., SAT, ACT, GED).</p>
-                            <div class="department-btn">
-                                <a href="/academictutoring">Read More<i class="fas fa-arrow-right-long"></i></a>
-                            </div>
+                            <h4 class="department-title">Academic Tutoring</h4>
+                            <p>One-on-one and group tutoring sessions across subjects (math, science, etc.).
+                            Test preparation for standardized tests (e.g., SAT, JAMB, SSCE).</p>
+
                         </div>
                     </div>
                     <div class="department-item">
@@ -518,11 +520,9 @@
                             <img src="assets/img/icon/law.svg" alt="">
                         </div>
                         <div class="department-info">
-                            <h4 class="department-title"><a href="/enrichmentprograms">Enrichment Programs</a></h4>
-                            <p>Extended learning opportunities that include science and technology programs (STEM), arts, foreign languages, and fine arts.</p>
-                            <div class="department-btn">
-                                <a href="/enrichmentprograms">Read More<i class="fas fa-arrow-right-long"></i></a>
-                            </div>
+                            <h4 class="department-title">SS1 Foundation Class</h4>
+                            <p>Extended learning opportunities for the SS1 set, including science and art.</p>
+
                         </div>
                     </div>
                     <div class="department-item">
@@ -530,12 +530,10 @@
                             <img src="assets/img/icon/data.svg" alt="">
                         </div>
                         <div class="department-info">
-                            <h4 class="department-title"><a href="/collegeandcareer">College and Career Counseling</a></h4>
+                            <h4 class="department-title">College and Career Counseling</h4>
                             <p>Guidance on college selection, application processes, and scholarship opportunities.
                             Career assessment and planning services, including resume writing and interview preparation.</p>
-                            <div class="department-btn">
-                                <a href="/collegeandcareer">Read More<i class="fas fa-arrow-right-long"></i></a>
-                            </div>
+
                         </div>
                     </div>
                     <div class="department-item">
@@ -543,12 +541,9 @@
                             <img src="assets/img/icon/health.svg" alt="">
                         </div>
                         <div class="department-info">
-                            <h4 class="department-title"><a href="/specialeducation">Special Education Services</a></h4>
-                            <p>Support for students with learning disabilities or other special needs.
-                            Individualized Education Programs (IEPs) tailored to student requirements.</p>
-                            <div class="department-btn">
-                                <a href="/specialeducation">Read More<i class="fas fa-arrow-right-long"></i></a>
-                            </div>
+                            <h4 class="department-title">Common Entrance</h4>
+                            <p>Support and resources available for students preparing for the Common Entrance Examination, preparing them for transition to secondary education.</p>
+
                         </div>
                     </div>
                     <div class="department-item">
@@ -556,12 +551,9 @@
                             <img src="assets/img/icon/art.svg" alt="">
                         </div>
                         <div class="department-info">
-                            <h4 class="department-title"><a href="/afterschoolprograms">After-School Programs</a></h4>
-                            <p>Supervised activities that include homework help, recreational activities, and skill-building exercises.
-                            Opportunities for social engagement and teamwork through clubs and sports.</p>
-                            <div class="department-btn">
-                                <a href="/afterschoolprograms">Read More<i class="fas fa-arrow-right-long"></i></a>
-                            </div>
+                            <h4 class="department-title">After-School Programs</h4>
+                            <p>Supervised activities that include homework help, recreational activities, and skill-building exercises.</p>
+
                         </div>
                     </div>
                 </div>
@@ -598,7 +590,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="testimonial-author-img">
-                                <img src="assets/img/testimonial/01.jpg" alt="">
+
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Anthony</h4>
@@ -622,7 +614,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="testimonial-author-img">
-                                <img src="assets/img/testimonial/02.jpg" alt="">
+
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Richard</h4>
@@ -646,7 +638,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="testimonial-author-img">
-                                <img src="assets/img/testimonial/03.jpg" alt="">
+
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Ogechi</h4>
@@ -670,7 +662,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="testimonial-author-img">
-                                <img src="assets/img/testimonial/04.jpg" alt="">
+
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Linda T.</h4>
@@ -694,7 +686,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="testimonial-author-img">
-                                <img src="assets/img/testimonial/05.jpg" alt="">
+
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Ninal Gordon</h4>
@@ -710,19 +702,7 @@
 
 
         <!-- partner area -->
-        <div class="partner-area bg pt-50 pb-50">
-            <div class="container">
-                <div class="partner-wrapper partner-slider owl-carousel owl-theme">
-                    <img src="assets/img/partner/01.png" alt="thumb">
-                    <img src="assets/img/partner/02.png" alt="thumb">
-                    <img src="assets/img/partner/03.png" alt="thumb">
-                    <img src="assets/img/partner/04.png" alt="thumb">
-                    <img src="assets/img/partner/01.png" alt="thumb">
-                    <img src="assets/img/partner/02.png" alt="thumb">
-                    <img src="assets/img/partner/04.png" alt="thumb">
-                </div>
-            </div>
-        </div>
+
         <!-- partner area end -->
 
     </main>

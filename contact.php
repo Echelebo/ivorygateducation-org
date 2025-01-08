@@ -1,3 +1,6 @@
+<?php
+$page_title = "Contact Us";
+?>
 <?php include('header.php')?>
 
 

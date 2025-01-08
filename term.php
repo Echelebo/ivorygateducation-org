@@ -1,3 +1,6 @@
+<?php
+$page_title = "Terms And Conditions";
+?>
 <?php include('header.php');?>
 
 

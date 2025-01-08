@@ -8,11 +8,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="IVORY GATE EDUCATION is on a mission to inspire and motivate young ones to Desire, pursue and attain academic excellence and diligence.">
+    <meta name="keywords" content="education centre,education abuja">
 
     <!-- title -->
-    <title><?php echo $page_title;?></title>
+    <title><?php echo $page_title;?> | Ivorygate Education</title>
 
     <!-- favicon -->
     <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -51,7 +51,7 @@
                             <span>Follow Us: </span>
                             <a href="https://www.facebook.com/IvoryGateEducationCentreAbujaNigeria/"><i class="fab fa-facebook-f"></i></a>
 
-                            <a href="#"><i class="fab fa-whatsapp"></i></a>
+                            <a href="https://wa.me/2348137107935"><i class="fab fa-whatsapp"></i></a>
                         </div>
                     </div>
                     <div class="header-top-right">
@@ -96,7 +96,7 @@
 
                             </li>
                             <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
-                            <<li class="nav-item"><a class="nav-link" href="/services">Our Services</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/services">Our Services</a></li>
                             <li class="nav-item"><a class="nav-link" href="/career">Career</a></li>
 
                             <li class="nav-item"><a class="nav-link" href="/resources">Free Resources</a></li>

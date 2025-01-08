@@ -1,3 +1,6 @@
+<?php
+$page_title = "About Us";
+?>
 <?php include('header.php');?>
 
     <main class="main">
@@ -89,7 +92,7 @@
                                     <div class="icon"><i class="fal fa-headset"></i></div>
                                     <div class="number">
                                         <span>Call Now</span>
-                                        <h6><a href="tel:+21236547898">+2348137107935</a></h6>
+                                        <h6><a href="tel:+2348137107935">+2348137107935</a></h6>
                                     </div>
                                 </div>
                             </div>
@@ -183,7 +186,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="testimonial-author-img">
-                                <img src="assets/img/testimonial/01.jpg" alt="">
+
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Anthony</h4>
@@ -207,7 +210,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="testimonial-author-img">
-                                <img src="assets/img/testimonial/02.jpg" alt="">
+
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Richard</h4>
@@ -231,7 +234,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="testimonial-author-img">
-                                <img src="assets/img/testimonial/03.jpg" alt="">
+
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Ogechi</h4>
@@ -255,7 +258,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="testimonial-author-img">
-                                <img src="assets/img/testimonial/04.jpg" alt="">
+
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Linda T.</h4>
@@ -279,7 +282,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="testimonial-author-img">
-                                <img src="assets/img/testimonial/05.jpg" alt="">
+
                             </div>
                             <div class="testimonial-author-info">
                                 <h4>Ninal Gordon</h4>

@@ -17,47 +17,34 @@
 
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-2">
+                    <div class="col-md-6 col-lg-4">
                         <div class="footer-widget-box list">
                             <h4 class="footer-widget-title">Quick Links</h4>
                             <ul class="footer-list">
-                                <li><a href="/about"><i class="fas fa-caret-right"></i> About Us</a></li>
 
-                                <li><a href="/about"><i class="fas fa-caret-right"></i> Testimonials</a></li>
+
+
                                 <li><a href="/term"><i class="fas fa-caret-right"></i> Terms Of Service</a></li>
                                 <li><a href="/privacy"><i class="fas fa-caret-right"></i> Privacy policy</a></li>
-                                <li><a href="/blog"><i class="fas fa-caret-right"></i> Update News</a></li>
-                                <li><a href="/contact"><i class="fas fa-caret-right"></i> Contact Us</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-widget-box list">
-                            <h4 class="footer-widget-title">College</h4>
-                            <ul class="footer-list">
-                                <li><a href="/academictutoring"><i class="fas fa-caret-right"></i> Academic Tutoring</a></li>
-                                <li><a href="/enrichmentprograms"><i class="fas fa-caret-right"></i> Enrichment Programs</a></li>
-                                <li><a href="/collegeandcareer"><i class="fas fa-caret-right"></i> College and Career Counseling</a></li>
-                                <li><a href="/specialeducation"><i class="fas fa-caret-right"></i> Special Education Services</a></li>
-                                <li><a href="/afterschoolprograms"><i class="fas fa-caret-right"></i> After-School Programs</a></li>
+
 
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-6 col-lg-4">
                         <div class="footer-widget-box list">
-                            <h4 class="footer-widget-title">Undergraduate</h4>
+                            <h4 class="footer-widget-title">Important Links</h4>
                             <ul class="footer-list">
-                    <li><a href="/parentalsupport"><i class="fas fa-caret-right"></i> Parental Support Services</a></li>
-                                <li><a href="/extracurricular"><i class="fas fa-caret-right"></i> Extracurricular Activities</a></li>
-                                <li><a href="/onlinelearning"><i class="fas fa-caret-right"></i> Online Learning Opportunities</a></li>
-                                <li><a href="/assessmentandevaluation"><i class="fas fa-caret-right"></i> Assessment and Evaluation</a></li>
-                                <li><a href="/communityengagement"><i class="fas fa-caret-right"></i> Community Engagement
-                                </a></li>
+                            <li><a href="/about"><i class="fas fa-caret-right"></i> About Us</a></li>
+                            <li><a href="/contact"><i class="fas fa-caret-right"></i> Contact Us</a></li>
+                                <li><a href="/resources"><i class="fas fa-caret-right"></i> Free Resources</a></li>
+                                <li><a href="/career"><i class="fas fa-caret-right"></i> Careers</a></li>
+                                <li><a href="/services"><i class="fas fa-caret-right"></i> Our Services</a></li>
 
-                                </ul>
+                            </ul>
                         </div>
                     </div>
+
 
                 </div>
             </div>
@@ -74,7 +61,7 @@
                         <div class="col-md-6 align-self-center">
                             <ul class="footer-social">
                                 <li><a href="https://www.facebook.com/IvoryGateEducationCentreAbujaNigeria/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
+                                <li><a href="https://wa.me/2348137107935"><i class="fab fa-whatsapp"></i></a></li>
 
                             </ul>
                         </div>
