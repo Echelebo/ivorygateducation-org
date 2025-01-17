@@ -9,6 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="IVORY GATE EDUCATION is on a mission to inspire and motivate young ones to Desire, pursue and attain academic excellence and diligence.">
+
     <meta name="keywords" content="education centre,education abuja">
 
     <!-- title -->
@@ -96,7 +97,59 @@
 
                             </li>
                             <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
-                            <li class="nav-item"><a class="nav-link" href="/services">Our Services</a></li>
+                            <li class="nav-item mega-menu dropdown">
+                                <a class="nav-link dropdown-toggle" href="/services" data-bs-toggle="dropdown">Our Services</a>
+                                <div class="dropdown-menu fade-down">
+                                    <div class="mega-content">
+                                        <div class="container-fluid">
+                                            <div class="row">
+                                                <div class="col-12 col-sm-4 col-md-3">
+                                                    <h5>About Us</h5>
+                                                    <div class="menu-about">
+                                                        <a href="#" class="menu-about-logo"><img
+                                                                src="assets/img/logo/logo-light.png" alt=""></a>
+                                                        <p>We believe that every student deserves individualized support in reaching their personal education and career goals.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="col-12 col-sm-4 col-md-3">
+                                                    <h5>Our Programs</h5>
+                                                    <ul class="mega-menu-item">
+                                                        <li><a class="dropdown-item" href="/sat">SAT</a></li>
+                                                        <li><a class="dropdown-item" href="/jamb">JAMB Class</a></li>
+                                                        <li><a class="dropdown-item"
+                                                                href="/ssce">SSCE Class</a>
+                                                        </li>
+                                                        <li><a class="dropdown-item" href="/ss1-foundation">SS1 Foundation Class</a></li>
+                                                        <li><a class="dropdown-item" href="/bece">BECE (Junior WAEC) Class</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col-12 col-sm-4 col-md-3">
+                                                    <h5>More Programs</h5>
+                                                    <ul class="mega-menu-item">
+                                                        <li><mo class="dropdown-item"
+                                                                href="/common-entrance">Common Entrance Class</a></li>
+                                                        <li><a class="dropdown-item" href="/virtual">Virtual/Online Class</a></li>
+                                                        <li><a class="dropdown-item" href="/icttraining">ICT Training</a></li>
+                                                        <li><a class="dropdown-item"
+                                                                href="/volunteerism">Volunteerism</a></li>
+                                                        <li><a class="dropdown-item"
+                                                                href="/leadership">Leadership</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col-12 col-sm-12 col-md-3">
+                                                    <h5>Resources</h5>
+                                                    <ul class="mega-menu-item">
+                                                        <li><a class="dropdown-item" href="/satforum">SAT Forum</a></li>
+                                                        <li><a class="dropdown-item" href="/jambforum">JAMB Forum</a></li>
+                                                        <li><a class="dropdown-item" href="/ssceforum">SSCE Forum</a></li>
+                                                        <li><a class="dropdown-item" href="/blog">Blog</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
                             <li class="nav-item"><a class="nav-link" href="/career">Career</a></li>
 
                             <li class="nav-item"><a class="nav-link" href="/resources">Free Resources</a></li>
