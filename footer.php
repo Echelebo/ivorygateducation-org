@@ -24,8 +24,16 @@
 
 
 
-                                <li><a href="/term"><i class="fas fa-caret-right"></i> Terms Of Service</a></li>
-                                <li><a href="/privacy"><i class="fas fa-caret-right"></i> Privacy policy</a></li>
+                                <li><a href="/sat"><i class="fas fa-caret-right"></i> SAT</a></li>
+                                <li><a href="/bece"><i class="fas fa-caret-right"></i> BECE (Junior Waec) Class</a></li>
+                                <li><a href="/common-entrance"><i class="fas fa-caret-right"></i> Common Entrance Class</a></li>
+                                <li><a href="/icttraining"><i class="fas fa-caret-right"></i> ICT Training</a></li>
+                                <li><a href="/jamb"><i class="fas fa-caret-right"></i> JAMB</a></li>
+                                <li><a href="/ss1-foundation"><i class="fas fa-caret-right"></i> SS1 Foundation Class</a></li>
+                                <li><a href="/ssce"><i class="fas fa-caret-right"></i> SSCE Class</a></li>
+                                <li><a href="/virtual"><i class="fas fa-caret-right"></i> Virtual/Online Class</a></li>
+                                <li><a href="/volunteerism"><i class="fas fa-caret-right"></i> Volunteerism</a></li>
+
 
 
                             </ul>

@@ -166,9 +166,7 @@ $page_title = "About Us";
                             </p>
                         </div>
                         <div class="testimonial-content">
-                            <div class="testimonial-author-img">
 
-                            </div>
                             <div class="testimonial-author-info">
                                 <h4>Anthony</h4>
                                 <p>Student</p>
@@ -190,9 +188,7 @@ $page_title = "About Us";
                             </p>
                         </div>
                         <div class="testimonial-content">
-                            <div class="testimonial-author-img">
 
-                            </div>
                             <div class="testimonial-author-info">
                                 <h4>Richard</h4>
                                 <p>Student</p>
@@ -214,9 +210,7 @@ $page_title = "About Us";
                             </p>
                         </div>
                         <div class="testimonial-content">
-                            <div class="testimonial-author-img">
 
-                            </div>
                             <div class="testimonial-author-info">
                                 <h4>Ogechi</h4>
                                 <p>Student</p>
@@ -238,9 +232,7 @@ $page_title = "About Us";
                             </p>
                         </div>
                         <div class="testimonial-content">
-                            <div class="testimonial-author-img">
 
-                            </div>
                             <div class="testimonial-author-info">
                                 <h4>Linda T.</h4>
                                 <p>Parent</p>
@@ -262,9 +254,7 @@ $page_title = "About Us";
                             </p>
                         </div>
                         <div class="testimonial-content">
-                            <div class="testimonial-author-img">
 
-                            </div>
                             <div class="testimonial-author-info">
                                 <h4>Ninal Gordon</h4>
                                 <p>Parent</p>

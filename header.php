@@ -137,11 +137,11 @@
                                                     </ul>
                                                 </div>
                                                 <div class="col-12 col-sm-12 col-md-3">
-                                                    <h5>Resources</h5>
+                                                    <h5>Free Resources</h5>
                                                     <ul class="mega-menu-item">
-                                                        <li><a class="dropdown-item" href="/satforum">SAT Forum</a></li>
-                                                        <li><a class="dropdown-item" href="/jambforum">JAMB Forum</a></li>
-                                                        <li><a class="dropdown-item" href="/ssceforum">SSCE Forum</a></li>
+                                                        <li><a class="dropdown-item" href="#">SAT Forum</a></li>
+                                                        <li><a class="dropdown-item" href="#">JAMB Forum</a></li>
+                                                        <li><a class="dropdown-item" href="#">SSCE Forum</a></li>
                                                         <li><a class="dropdown-item" href="/blog">Blog</a></li>
                                                     </ul>
                                                 </div>
@@ -152,7 +152,7 @@
                             </li>
                             <li class="nav-item"><a class="nav-link" href="/career">Career</a></li>
 
-                            <li class="nav-item"><a class="nav-link" href="/resources">Free Resources</a></li>
+
                           <!--  <li class="nav-item ">
                                 <a class="nav-link dropdown-toggle-x" href="/blog" data-bs-toggle="dropdown-x">Our Blog</a>
 
