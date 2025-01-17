@@ -189,27 +189,8 @@ $page_title = "Home";
                             </p>
                             <div class="about-content">
                                 <div class="row">
-                                    <div class="col-md-7">
-                                        <div class="about-item">
-                                            <div class="about-item-icon">
-                                                <img src="assets/img/icon/open-book.svg" alt="">
-                                            </div>
-                                            <div class="about-item-content">
-                                                <h5>Education Services</h5>
 
-                                            </div>
-                                        </div>
-                                        <div class="about-item">
-                                            <div class="about-item-icon">
-                                                <img src="assets/img/icon/global-education.svg" alt="">
-                                            </div>
-                                            <div class="about-item-content">
-                                                <h5>Admission Hubs</h5>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-5">
+                                    <div class="col-md-10">
                                         <div class="about-quote">
                                             <p>IVORY GATE EDUCATION is on a mission to inspire and motivate young ones to
                                             Desire, pursue and attain academic excellence and diligence for outstanding performance in SAT, JAMB, SSCE, SS1 Foundation Class, BECE (Junior WAEC), Common Entrance,Virtual/ Online Classes and Information Technology.</p>
@@ -569,7 +550,7 @@ $page_title = "Home";
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
                             <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Testimonials</span>
-                            <h2 class="site-title text-white">What Our Students <span>Say's</span></h2>
+                            <h2 class="site-title text-white">What Our Students <span>Say</span></h2>
                             <p class="text-white">These testimonials paint a picture of the positive impact our education center has on its students, parents, and educators.</p>
                         </div>
                     </div>
