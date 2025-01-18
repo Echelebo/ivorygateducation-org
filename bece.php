@@ -1,4 +1,4 @@
-<b?php
+<?php
 $page_title = "BECE (Junior Waec) Class";
 ?>
 
