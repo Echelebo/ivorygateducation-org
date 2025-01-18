@@ -67,8 +67,8 @@ $page_title = "BECE (Junior Waec) Class";
 </ul>
                             </p>
 
-                            <p class="mb-20">
-                           <b class="mt-4"> Parental Involvement</b>
+                            <p class="mb-20 mt-4">
+                           <b> Parental Involvement</b>
 
 <ul><li>Support Your Child: Encourage a positive attitude towards studying, and create a conducive environment for learning.</li>
 <li>Stay Informed: Keep track of important dates related to registration, exams, and results.</li></ul>
