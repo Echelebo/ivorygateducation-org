@@ -37,6 +37,7 @@ $page_title = "BECE (Junior Waec) Class";
                                 <a href="/ssce"><i class="far fa-long-arrow-right"></i>SSCE Class</a>
                                 <a href="/virtual"><i class="far fa-long-arrow-right"></i>Virtual/Online Class</a>
                                 <a href="/volunteerism"><i class="far fa-long-arrow-right"></i>Volunteerism</a>
+                                <a href="/leadership"><i class="far fa-long-arrow-right"></i>Leadership</a>
                             </div>
                         </div>
                         <div class="widget department-download">

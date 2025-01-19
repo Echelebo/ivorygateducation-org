@@ -37,6 +37,7 @@ $page_title = "SAT";
                                 <a href="/ssce"><i class="far fa-long-arrow-right"></i>SSCE Class</a>
                                 <a href="/virtual"><i class="far fa-long-arrow-right"></i>Virtual/Online Class</a>
                                 <a href="/volunteerism"><i class="far fa-long-arrow-right"></i>Volunteerism</a>
+                                <a href="/leadership"><i class="far fa-long-arrow-right"></i>Leadership</a>
                             </div>
                         </div>
                         <div class="widget department-download">
@@ -58,25 +59,40 @@ $page_title = "SAT";
                             </p>
 
                             <p class="mb-20">
+                            <b>Structure of the SAT</b>
+<ul>
+<li>Sections: The SAT consists of three main sections:
+    <ul>
+        <li>Evidence-Based Reading and Writing</li>
+        <li>Math</li>
+        <li>Optional Essay (not required by all colleges)</li>
+    </ul>
+</li>
+<li>Scoring: Each section is scored on a scale of 200 to 800, with a total possible score of 1600.</li>
+
+</ul>
+                            </p>
+
+                            <p class="mb-20 mt-4">
                             <b>Preparation Tips for Students</b>
 <ul>
-<li>Consistent Study Schedule: Create a timetable to cover all subjects effectively.</li>
-<li>Practice Past Questions: Familiarize yourself with the exam format and question types.</li>
-<li>Group Study: Encourage group studies to enhance understanding through discussion.</li>
-<li>Health and Well-being: Maintain a balanced diet and ensure adequate rest before the exams.</li>
+<li>Create a Study Plan: Establish a study schedule that allocates time for each section of the test.</li>
+<li>Use Official Prep Materials: Utilize resources from the College Board and practice tests to familiarize yourself with the exam format.</li>
+<li>Join Study Groups: Collaborate with peers to discuss challenging topics and motivate one another.</li>
+<li>Seek Guidance: Consider tutoring or preparation courses if additional support is needed.</li>
 </ul>
                             </p>
 
                             <p class="mb-20 mt-4">
                            <b> Parental Involvement</b>
 
-<ul><li>Support Your Child: Encourage a positive attitude towards studying, and create a conducive environment for learning.</li>
-<li>Stay Informed: Keep track of important dates related to registration, exams, and results.</li></ul>
+<ul><li>Encourage Preparation: Motivate your child to take the preparation seriously and establish a productive study routine.</li>
+<li>Stay Updated: Keep informed about important registration and test dates to assist your child effectively.</li></ul>
                             </p>
                             <div class="my-4">
                                 <div class="mb-3">
                                     <h3 class="mb-3">How To Prepare For The Exam</h3>
-                                    <p>The BECE is a significant milestone in a student's academic journey. Ivorygate Education center play's a pivotal role in preparing students for this examination by providing support, resources, and guidance. Let's work together to ensure every student is equipped to succeed!</p>
+                                    <p>The SAT is a critical component of the college admission process, shaping students' futures. Ivorygate Education center greatly contributes by providing resources, support, and guidance to help students excel in this important assessment. Together, let’s empower our students to achieve their academic goals!</p>
                                 </div>
 
                             </div>

@@ -33,6 +33,7 @@
                                 <li><a href="/ssce"><i class="fas fa-caret-right"></i> SSCE Class</a></li>
                                 <li><a href="/virtual"><i class="fas fa-caret-right"></i> Virtual/Online Class</a></li>
                                 <li><a href="/volunteerism"><i class="fas fa-caret-right"></i> Volunteerism</a></li>
+                                <li><a href="/leadership"><i class="fas fa-caret-right"></i> Leadership</a></li>
 
 
 

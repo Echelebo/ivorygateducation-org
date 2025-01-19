@@ -1,5 +1,5 @@
 <?php
-$page_title = "BECE (Junior Waec) Class";
+$page_title = "SSCE Class";
 ?>
 
 <?php include('header.php');?>
@@ -8,10 +8,10 @@ $page_title = "BECE (Junior Waec) Class";
 <!-- breadcrumb -->
 <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
     <div class="container">
-        <h2 class="breadcrumb-title">BECE (JUNIOR WAEC)</h2>
+        <h2 class="breadcrumb-title">SSCE</h2>
         <ul class="breadcrumb-menu">
             <li><a href="/">Home</a></li>
-            <li class="active">BECE (JUNIOR WAEC)</li>
+            <li class="active">SSCE</li>
         </ul>
     </div>
 </div>
@@ -29,7 +29,7 @@ $page_title = "BECE (Junior Waec) Class";
                             <h4 class="widget-title">Our Services</h4>
                             <div class="category-list">
                                 <a href="/sat"><i class="far fa-long-arrow-right"></i>SAT</a>
-                                <a href="/bece"><i class="far fa-long-arrow-right"></i>BECE (Junior Waec) Class</a>
+                                <a href="/bece"><i class="far fa-long-arrow-right"></i>BECE (JUNIOR WAEC) Class</a>
                                 <a href="/common-entrance"><i class="far fa-long-arrow-right"></i>Common Entrance Class</a>
                                 <a href="/icttraining"><i class="far fa-long-arrow-right"></i>ICT Training</a>
                                 <a href="/jamb"><i class="far fa-long-arrow-right"></i>JAMB Class</a>
@@ -37,6 +37,7 @@ $page_title = "BECE (Junior Waec) Class";
                                 <a href="/ssce"><i class="far fa-long-arrow-right"></i>SSCE Class</a>
                                 <a href="/virtual"><i class="far fa-long-arrow-right"></i>Virtual/Online Class</a>
                                 <a href="/volunteerism"><i class="far fa-long-arrow-right"></i>Volunteerism</a>
+                                <a href="/leadership"><i class="far fa-long-arrow-right"></i>Leadership</a>
                             </div>
                         </div>
                         <div class="widget department-download">
@@ -52,31 +53,41 @@ $page_title = "BECE (Junior Waec) Class";
                     <div class="department-details">
 
                         <div class="department-details">
-                            <h3 class="mb-20">BECE (JUNIOR WAEC)</h3>
+                            <h3 class="mb-20">SSCE</h3>
                             <p class="mb-20">
-                            The Basic Education Certificate Examination (BECE), commonly referred to as Junior WAEC, is a crucial assessment for students completing their Junior High School education. It serves as a gateway for further educational opportunities and is vital for assessing student learning outcomes.
+                            The Senior Secondary Certificate Examination (SSCE) is a pivotal academic assessment for students completing their secondary education. It serves as a qualification for higher education and a critical determinant of students' career paths.
                             </p>
 
                             <p class="mb-20">
+                            <b>Objectives of the SSCE</b>
+<ul>
+<li>Certification of Secondary Education: Provides students with an official certification upon successful completion of their senior secondary education.</li>
+<li>Assessment of Competence: Evaluates students’ understanding and knowledge across various subjects.</li>
+<li>Gateway to Higher Education and Careers: A crucial requirement for admission into universities and other higher educational institutions.</li>
+
+</ul>
+                            </p>
+
+                            <p class="mb-20 mt-4">
                             <b>Preparation Tips for Students</b>
 <ul>
-<li>Consistent Study Schedule: Create a timetable to cover all subjects effectively.</li>
-<li>Practice Past Questions: Familiarize yourself with the exam format and question types.</li>
-<li>Group Study: Encourage group studies to enhance understanding through discussion.</li>
-<li>Health and Well-being: Maintain a balanced diet and ensure adequate rest before the exams.</li>
+<li>Develop a Study Schedule: Create a comprehensive timetable that covers all subjects to ensure adequate preparation.</li>
+<li>Practice Past Questions: Engage with previous years’ exam questions to familiarize yourself with the question formats and types.</li>
+<li>Utilize Study Resources: Make use of recommended textbooks, online resources, and libraries to enhance understanding.</li>
+<li>Form Study Groups: Collaborate with classmates to reinforce learning through discussion and shared resources.</li>
 </ul>
                             </p>
 
                             <p class="mb-20 mt-4">
                            <b> Parental Involvement</b>
 
-<ul><li>Support Your Child: Encourage a positive attitude towards studying, and create a conducive environment for learning.</li>
-<li>Stay Informed: Keep track of important dates related to registration, exams, and results.</li></ul>
+<ul><li>Active Support: Encourage your child by providing a conducive study environment and being involved in their preparation process.</li>
+<li>Track Progress: Regularly check in on their study habits and offer help or guidance as needed.</li></ul>
                             </p>
                             <div class="my-4">
                                 <div class="mb-3">
                                     <h3 class="mb-3">How To Prepare For The Exam</h3>
-                                    <p>The BECE is a significant milestone in a student's academic journey. Ivorygate Education center play's a pivotal role in preparing students for this examination by providing support, resources, and guidance. Let's work together to ensure every student is equipped to succeed!</p>
+                                    <p>The SSCE is a significant milestone for students, marking the culmination of their secondary education journey. Ivorygate Education center play's a crucial role in guiding and preparing students for this examination, ensuring they are ready to take the next steps toward their future. Together, we can support our students in achieving their academic aspirations!</p>
                                 </div>
 
                             </div>

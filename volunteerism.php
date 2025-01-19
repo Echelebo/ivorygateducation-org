@@ -1,5 +1,5 @@
 <?php
-$page_title = "BECE (Junior Waec) Class";
+$page_title = "Volunteerism";
 ?>
 
 <?php include('header.php');?>
@@ -8,10 +8,10 @@ $page_title = "BECE (Junior Waec) Class";
 <!-- breadcrumb -->
 <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
     <div class="container">
-        <h2 class="breadcrumb-title">BECE (JUNIOR WAEC)</h2>
+        <h2 class="breadcrumb-title">Volunteerism</h2>
         <ul class="breadcrumb-menu">
             <li><a href="/">Home</a></li>
-            <li class="active">BECE (JUNIOR WAEC)</li>
+            <li class="active">Volunteerism</li>
         </ul>
     </div>
 </div>
@@ -29,7 +29,7 @@ $page_title = "BECE (Junior Waec) Class";
                             <h4 class="widget-title">Our Services</h4>
                             <div class="category-list">
                                 <a href="/sat"><i class="far fa-long-arrow-right"></i>SAT</a>
-                                <a href="/bece"><i class="far fa-long-arrow-right"></i>BECE (Junior Waec) Class</a>
+                                <a href="/bece"><i class="far fa-long-arrow-right"></i>BECE (JUNIOR WAEC) Class</a>
                                 <a href="/common-entrance"><i class="far fa-long-arrow-right"></i>Common Entrance Class</a>
                                 <a href="/icttraining"><i class="far fa-long-arrow-right"></i>ICT Training</a>
                                 <a href="/jamb"><i class="far fa-long-arrow-right"></i>JAMB Class</a>
@@ -37,6 +37,7 @@ $page_title = "BECE (Junior Waec) Class";
                                 <a href="/ssce"><i class="far fa-long-arrow-right"></i>SSCE Class</a>
                                 <a href="/virtual"><i class="far fa-long-arrow-right"></i>Virtual/Online Class</a>
                                 <a href="/volunteerism"><i class="far fa-long-arrow-right"></i>Volunteerism</a>
+                                <a href="/leadership"><i class="far fa-long-arrow-right"></i>Leadership</a>
                             </div>
                         </div>
                         <div class="widget department-download">
@@ -52,31 +53,44 @@ $page_title = "BECE (Junior Waec) Class";
                     <div class="department-details">
 
                         <div class="department-details">
-                            <h3 class="mb-20">BECE (JUNIOR WAEC)</h3>
+                            <h3 class="mb-20">Volunteerism</h3>
                             <p class="mb-20">
-                            The Basic Education Certificate Examination (BECE), commonly referred to as Junior WAEC, is a crucial assessment for students completing their Junior High School education. It serves as a gateway for further educational opportunities and is vital for assessing student learning outcomes.
+                            Volunteerism is a powerful way to foster community engagement and social responsibility among students and educators. By encouraging volunteer activities, Ivorygate Education center don't only enhance the learning experience but also instill values of empathy, teamwork, and civic duty.
                             </p>
 
                             <p class="mb-20">
-                            <b>Preparation Tips for Students</b>
+                            <b>Importance of Volunteerism</b>
 <ul>
-<li>Consistent Study Schedule: Create a timetable to cover all subjects effectively.</li>
-<li>Practice Past Questions: Familiarize yourself with the exam format and question types.</li>
-<li>Group Study: Encourage group studies to enhance understanding through discussion.</li>
-<li>Health and Well-being: Maintain a balanced diet and ensure adequate rest before the exams.</li>
+<li>Community Engagement: Volunteerism connects students with their communities, allowing them to contribute positively and understand local needs.</li>
+<li>Personal Development: Participation in volunteer activities helps students develop essential life skills, including leadership, communication, and problem-solving.</li>
+<li>Civic Responsibility: Encourages a sense of responsibility and awareness of social issues, fostering informed and active citizens.</li>
+
 </ul>
                             </p>
 
                             <p class="mb-20 mt-4">
-                           <b> Parental Involvement</b>
+                            <b>Benefits of Volunteerism for Students</b>
+<ul>
+<li>Skill Development: Students acquire new skills that can enhance their academic and career prospects, such as teamwork, organization, and time management.</li>
+<li>Enhanced Learning Experience: Hands-on experience from volunteering complements academic learning, providing practical applications of classroom concepts.</li>
+<li>Building Connections: Volunteering fosters relationships among students, educators, and community members, promoting networking and collaboration.</li>
+<li>Boosting Confidence: Engaging in meaningful work can increase self-esteem and provide a sense of accomplishment.</li>
+</ul>
+                            </p>
 
-<ul><li>Support Your Child: Encourage a positive attitude towards studying, and create a conducive environment for learning.</li>
-<li>Stay Informed: Keep track of important dates related to registration, exams, and results.</li></ul>
+                            <p class="mb-20 mt-4">
+                           <b>Implementation Strategies</b>
+
+<ul><li>Partnerships with Local Organizations: Collaborate with local NGOs, community groups, and businesses to identify volunteer opportunities and streamline participation.</li>
+<li>Integration into the Curriculum: Include services learning in the curriculum where students can earn credits for volunteer work.</li>
+<li>Recognition Programs: Implement awards or certificates to recognize and celebrate student involvement in volunteer initiatives.</li>
+<li>Reflection Opportunities: Encourage students to reflect on their experiences, discussing what they learned and how it affected their perspectives.</li>
+</ul>
                             </p>
                             <div class="my-4">
                                 <div class="mb-3">
                                     <h3 class="mb-3">How To Prepare For The Exam</h3>
-                                    <p>The BECE is a significant milestone in a student's academic journey. Ivorygate Education center play's a pivotal role in preparing students for this examination by providing support, resources, and guidance. Let's work together to ensure every student is equipped to succeed!</p>
+                                    <p>Volunteerism is an invaluable aspect of education that extends learning beyond the classroom. By promoting volunteer opportunities, Ivorygate Education Center can cultivate social responsibility, practical skills, and a sense of community among students. Together, let’s empower our students to make a difference in their communities and inspire a lifelong commitment to service!</p>
                                 </div>
 
                             </div>
