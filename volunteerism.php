@@ -10,7 +10,7 @@ $page_title = "BECE (Junior Waec) Class";
     <div class="container">
         <h2 class="breadcrumb-title">BECE (JUNIOR WAEC)</h2>
         <ul class="breadcrumb-menu">
-            <li><a href="index-2.html">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li class="active">BECE (JUNIOR WAEC)</li>
         </ul>
     </div>
