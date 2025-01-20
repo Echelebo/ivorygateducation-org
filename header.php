@@ -126,7 +126,7 @@
                                                 <div class="col-12 col-sm-4 col-md-3">
                                                     <h5>More Programs</h5>
                                                     <ul class="mega-menu-item">
-                                                        <li><mo class="dropdown-item"
+                                                        <li><a class="dropdown-item"
                                                                 href="/common-entrance">Common Entrance Class</a></li>
                                                         <li><a class="dropdown-item" href="/virtual">Virtual/Online Class</a></li>
                                                         <li><a class="dropdown-item" href="/icttraining">ICT Training</a></li>
