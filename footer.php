@@ -23,16 +23,16 @@
 
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-2">
+                    <div class="col-md-6 col-lg-3">
                         <div class="footer-widget-box list">
-                            <h4 class="footer-widget-title">Our Services</h4>
+                            <h4 class="footer-widget-title">Services</h4>
                             <ul class="footer-list">
 
-                                <li><a href="/sat"><i class="fas fa-caret-right"></i> SAT</a></li>
-                                <li><a href="/bece"><i class="fas fa-caret-right"></i> BECE (Junior Waec) Class</a></li>
-                                <li><a href="/common-entrance"><i class="fas fa-caret-right"></i> Common Entrance Class</a></li>
-                                <li><a href="/icttraining"><i class="fas fa-caret-right"></i> ICT Training</a></li>
-                                <li><a href="/jamb"><i class="fas fa-caret-right"></i> JAMB</a></li>
+                                <li><a href="/sat"><i class="fas fa-caret-right"></i>SAT Class</a></li>
+                                <li><a href="/bece"><i class="fas fa-caret-right"></i>SSCE Class</a></li>
+                                <li><a href="/common-entrance"><i class="fas fa-caret-right"></i>JAMB Class</a></li>
+                                <li><a href="/icttraining"><i class="fas fa-caret-right"></i>Volunteerism</a></li>
+                                <li><a href="/jamb"><i class="fas fa-caret-right"></i>Leadership</a></li>
                             </ul>
                         </div>
                     </div>
@@ -40,23 +40,23 @@
                         <div class="footer-widget-box list">
                             <h4 class="footer-widget-title">More Services</h4>
                             <ul class="footer-list">
-                            <li><a href="/ss1-foundation"><i class="fas fa-caret-right"></i> SS1 Foundation Class</a></li>
-                                <li><a href="/ssce"><i class="fas fa-caret-right"></i> SSCE Class</a></li>
-                                <li><a href="/virtual"><i class="fas fa-caret-right"></i> Virtual/Online Class</a></li>
-                                <li><a href="/volunteerism"><i class="fas fa-caret-right"></i> Volunteerism</a></li>
-                                <li><a href="/leadership"><i class="fas fa-caret-right"></i> Leadership</a></li>
+                            <li><a href="/ss1-foundation"><i class="fas fa-caret-right"></i>SS1 Foundation</a></li>
+                                <li><a href="/ssce"><i class="fas fa-caret-right"></i>BECE (Junior Waec)</a></li>
+                                <li><a href="/virtual"><i class="fas fa-caret-right"></i>Virtual/Online Class</a></li>
+                                <li><a href="/volunteerism"><i class="fas fa-caret-right"></i>ICT Training</a></li>
+                                <li><a href="/leadership"><i class="fas fa-caret-right"></i>Common Entrance Class</a></li>
                             </ul>
                         </div>
-                    </div>div>
-                    <div class="col-md-6 col-lg-3">
+                    </div>
+                    <div class="col-md-6 col-lg-2">
                         <div class="footer-widget-box list">
                             <h4 class="footer-widget-title">Important Links</h4>
                             <ul class="footer-list">
-                            <li><a href="/about"><i class="fas fa-caret-right"></i> About Us</a></li>
-                            <li><a href="/contact"><i class="fas fa-caret-right"></i> Contact Us</a></li>
-                                <li><a href="/resources"><i class="fas fa-caret-right"></i> Free Resources</a></li>
-                                <li><a href="/career"><i class="fas fa-caret-right"></i> Careers</a></li>
-                                <li><a href="/services"><i class="fas fa-caret-right"></i> Our Services</a></li>
+                            <li><a href="/about"><i class="fas fa-caret-right"></i>About</a></li>
+                            <li><a href="/contact"><i class="fas fa-caret-right"></i>Contact</a></li>
+                                <li><a href="/resources"><i class="fas fa-caret-right"></i>Resources</a></li>
+                                <li><a href="/career"><i class="fas fa-caret-right"></i>Careers</a></li>
+                                <li><a href="/services"><i class="fas fa-caret-right"></i>Services</a></li>
 
                             </ul>
                         </div>
