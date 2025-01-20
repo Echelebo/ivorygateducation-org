@@ -106,7 +106,7 @@
                                                 <div class="col-12 col-sm-4 col-md-3">
                                                     <h5>About Us</h5>
                                                     <div class="menu-about">
-                                                        <a href="#" class="menu-about-logo"><img
+                                                        <a href="/" class="menu-about-logo"><img
                                                                 src="assets/img/logo/logo-light.png" alt=""></a>
                                                         <p>We believe that every student deserves individualized support in reaching their personal education and career goals.</p>
                                                     </div>
