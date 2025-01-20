@@ -1,5 +1,5 @@
 <?php
-$page_title = "JAMB Class";
+$page_title = "Our Blog";
 ?>
 
 <?php include('header.php');?>
@@ -11,7 +11,7 @@ $page_title = "JAMB Class";
     <div class="container">
         <h2 class="breadcrumb-title">Our Blog</h2>
         <ul class="breadcrumb-menu">
-            <li><a href="index-2.html">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li class="active">Our Blog</li>
         </ul>
     </div>
@@ -28,8 +28,7 @@ $page_title = "JAMB Class";
                 <div class="site-heading text-center">
                     <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Our Blog</span>
                     <h2 class="site-title">Latest News & <span>Blog</span></h2>
-                    <p>It is a long established fact that a reader will be distracted by the readable content of
-                        a page when looking at its layout.</p>
+                    <p>We are passionate about empowering learners of all ages. Our mission is to provide valuable resources, insights, and inspiration to students, educators, and parents alike.</p>
                 </div>
             </div>
         </div>
@@ -48,112 +47,17 @@ $page_title = "JAMB Class";
                             </ul>
                         </div>
                         <h4 class="blog-title">
-                            <a href="blog-single.html">There are many variations passage have suffered available.</a>
+                            <a href="/blog-single">There are many variations passage have suffered available.</a>
                         </h4>
-                        <a class="theme-btn" href="blog-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
+                        <a class="theme-btn" href="/blog-single">Read More<i class="fas fa-arrow-right-long"></i></a>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                    <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
-                    <div class="blog-item-img">
-                        <img src="assets/img/blog/02.jpg" alt="Thumb">
-                    </div>
-                    <div class="blog-item-info">
-                        <div class="blog-item-meta">
-                            <ul>
-                                <li><a href="#"><i class="far fa-user-circle"></i> By Alicia Davis</a></li>
-                                <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
-                            </ul>
-                        </div>
-                        <h4 class="blog-title">
-                            <a href="blog-single.html">There are many variations passage have suffered available.</a>
-                        </h4>
-                        <a class="theme-btn" href="blog-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-item wow fadeInUp" data-wow-delay=".75s">
-                    <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
-                    <div class="blog-item-img">
-                        <img src="assets/img/blog/03.jpg" alt="Thumb">
-                    </div>
-                    <div class="blog-item-info">
-                        <div class="blog-item-meta">
-                            <ul>
-                                <li><a href="#"><i class="far fa-user-circle"></i> By Alicia Davis</a></li>
-                                <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
-                            </ul>
-                        </div>
-                        <h4 class="blog-title">
-                            <a href="blog-single.html">There are many variations passage have suffered available.</a>
-                        </h4>
-                        <a class="theme-btn" href="blog-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
-                    <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
-                    <div class="blog-item-img">
-                        <img src="assets/img/blog/01.jpg" alt="Thumb">
-                    </div>
-                    <div class="blog-item-info">
-                        <div class="blog-item-meta">
-                            <ul>
-                                <li><a href="#"><i class="far fa-user-circle"></i> By Alicia Davis</a></li>
-                                <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
-                            </ul>
-                        </div>
-                        <h4 class="blog-title">
-                            <a href="blog-single.html">There are many variations passage have suffered available.</a>
-                        </h4>
-                        <a class="theme-btn" href="blog-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                    <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
-                    <div class="blog-item-img">
-                        <img src="assets/img/blog/02.jpg" alt="Thumb">
-                    </div>
-                    <div class="blog-item-info">
-                        <div class="blog-item-meta">
-                            <ul>
-                                <li><a href="#"><i class="far fa-user-circle"></i> By Alicia Davis</a></li>
-                                <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
-                            </ul>
-                        </div>
-                        <h4 class="blog-title">
-                            <a href="blog-single.html">There are many variations passage have suffered available.</a>
-                        </h4>
-                        <a class="theme-btn" href="blog-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="blog-item wow fadeInUp" data-wow-delay=".75s">
-                    <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
-                    <div class="blog-item-img">
-                        <img src="assets/img/blog/03.jpg" alt="Thumb">
-                    </div>
-                    <div class="blog-item-info">
-                        <div class="blog-item-meta">
-                            <ul>
-                                <li><a href="#"><i class="far fa-user-circle"></i> By Alicia Davis</a></li>
-                                <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
-                            </ul>
-                        </div>
-                        <h4 class="blog-title">
-                            <a href="blog-single.html">There are many variations passage have suffered available.</a>
-                        </h4>
-                        <a class="theme-btn" href="blog-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                    </div>
-                </div>
-            </div>
+
+
+
+
+
         </div>
         <!-- pagination -->
         <div class="pagination-area">

@@ -14,33 +14,41 @@
                             <p class="mb-3">
                             we believe that every student deserves individualized support in reaching their personal education and career goals.
                             </p>
+                            <ul class="footer-contact">
+                                <li><a href="tel:+2348137107935"><i class="far fa-phone"></i>+2348137107935</a></li>
+                                <li><i class="far fa-map-marker-alt"></i>Abuja, Nigeria</li>
+                                <li><a href="mailto:contact@ivorygateeducation"><i
+                                            class="far fa-envelope"></i><span class="__cf_email__" data-cfemail="b2dbdcd4ddf2d7cad3dfc2ded79cd1dddf">contact@ivorygateeducation</span></a></li>
+                            </ul>
 
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-2">
                         <div class="footer-widget-box list">
-                            <h4 class="footer-widget-title">Quick Links</h4>
+                            <h4 class="footer-widget-title">Our Services</h4>
                             <ul class="footer-list">
-
-
 
                                 <li><a href="/sat"><i class="fas fa-caret-right"></i> SAT</a></li>
                                 <li><a href="/bece"><i class="fas fa-caret-right"></i> BECE (Junior Waec) Class</a></li>
                                 <li><a href="/common-entrance"><i class="fas fa-caret-right"></i> Common Entrance Class</a></li>
                                 <li><a href="/icttraining"><i class="fas fa-caret-right"></i> ICT Training</a></li>
                                 <li><a href="/jamb"><i class="fas fa-caret-right"></i> JAMB</a></li>
-                                <li><a href="/ss1-foundation"><i class="fas fa-caret-right"></i> SS1 Foundation Class</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="footer-widget-box list">
+                            <h4 class="footer-widget-title">More Services</h4>
+                            <ul class="footer-list">
+                            <li><a href="/ss1-foundation"><i class="fas fa-caret-right"></i> SS1 Foundation Class</a></li>
                                 <li><a href="/ssce"><i class="fas fa-caret-right"></i> SSCE Class</a></li>
                                 <li><a href="/virtual"><i class="fas fa-caret-right"></i> Virtual/Online Class</a></li>
                                 <li><a href="/volunteerism"><i class="fas fa-caret-right"></i> Volunteerism</a></li>
                                 <li><a href="/leadership"><i class="fas fa-caret-right"></i> Leadership</a></li>
-
-
-
                             </ul>
                         </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
+                    </div>div>
+                    <div class="col-md-6 col-lg-3">
                         <div class="footer-widget-box list">
                             <h4 class="footer-widget-title">Important Links</h4>
                             <ul class="footer-list">
