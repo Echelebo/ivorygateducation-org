@@ -24,83 +24,34 @@ $page_title = "Our Careers";
             <div class="container">
                 <div class="course-single-wrapper">
                     <div class="row">
-                        <div class="col-xl-8 col-lg-8">
+                        <div class="col-xl-12 col-lg-12">
                             <div class="course-details">
-                                <div class="course-details-img mb-30">
-                                    <img src="assets/img/course/single.jpg" alt="thumb">
-                                </div>
+
                                 <div class="course-details">
-                                    <h3 class="mb-20">Computer Science And Engineering</h3>
+                                    <h3 class="mb-20">Are You Looking To Pursue a Teaching Career that Fulfills your Passion?
+                                    </h3>
                                     <p class="mb-20">
-                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-                                        veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                                        voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-                                        consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque
-                                        porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci
-                                        velit, sed quia non numquam eius modi tempora incidunt ut labore et.
+                                    At Ivorygate Education Center, we believe that each team member plays a vital role in shaping the future of our students. Our mission is to provide high-quality education and foster a nurturing environment where learners can thrive. We are always on the lookout for passionate, dedicated individuals who share our commitment to excellence in education.
                                     </p>
-                                    <p class="mb-20">
-                                        But I must explain to you how all this mistaken idea of denouncing pleasure and
-                                        praising pain was born and I will give you a complete account of the system, and
-                                        expound the actual teachings of the great explorer of the truth, the
-                                        master-builder of human happiness. No one rejects, dislikes, or avoids pleasure
-                                        itself, because it is pleasure, but because those who do not know how to pursue
-                                        pleasure rationally encounter consequences that are extremely painful. Nor again
-                                        is there anyone who loves or pursues or desires to obtain pain of itself,
-                                        because it is pain, but because occasionally circumstances occur in which toil
-                                        and pain can procure him some great pleasure. To take a trivial example
-                                    </p>
-                                    <div class="row">
-                                        <div class="col-md-6 mb-20">
-                                            <img src="assets/img/course/01.jpg" alt="">
-                                        </div>
-                                        <div class="col-md-6 mb-20">
-                                            <img src="assets/img/course/02.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <p class="mb-20">
-                                        Power of choice is untrammelled and when nothing prevents our being able to do
-                                        what we like best, every pleasure is to be welcomed and every pain avoided. But
-                                        in certain circumstances and owing to the claims of duty or the obligations of
-                                        business it will frequently occur that pleasures have to be repudiated and
-                                        annoyances accepted. The wise man therefore always holds in these matters to
-                                        this principle of selection.
-                                    </p>
+
+
+
                                     <div class="my-4">
                                         <div class="mb-3">
-                                            <h3 class="mb-3">Course Requirement</h3>
-                                            <p>Aliquam facilisis rhoncus nunc, non vestibulum mauris volutpat non.
-                                                Vivamus tincidunt accumsan urna, vel aliquet nunc commodo tristique.
-                                                Nulla facilisi. Phasellus vel ex nulla. Nunc tristique sapien id mauris
-                                                efficitur, porta scelerisque nisl dignissim. Vestibulum ante ipsum
-                                                primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed at
-                                                mollis tellus. Proin consequat, orci nec bibendum viverra, ante orci
-                                                suscipit dolor, et condimentum felis dolor ac lectus.</p>
+                                            <h3 class="mb-3">Why Work With Us?</h3>
                                         </div>
                                         <ul class="course-single-list">
-                                            <li><i class="fas fa-check"></i>Fusce justo risus placerat in risus eget
-                                                tincidunt consequat elit.</li>
-                                            <li><i class="fas fa-check"></i>Nunc fermentum sem sit amet dolor laoreet
-                                                placerat.</li>
-                                            <li><i class="fas fa-check"></i>Nullam rhoncus dictum diam quis ultrices.
+                                            <li><i class="fas fa-check"></i>Impactful Work: You’ll have the opportunity to make a real difference in students' lives every day.</li>
+                                            <li><i class="fas fa-check"></i>Collaborative Environment: We promote teamwork and encourage the sharing of ideas among staff and educators.</li>
+                                            <li><i class="fas fa-check"></i>Professional Growth: We offer ongoing training, workshops, and advancement opportunities to support your career development.
                                             </li>
-                                            <li><i class="fas fa-check"></i>Integer quis lorem est uspendisse eu augue
-                                                porta ullamcorper dictum.</li>
-                                            <li><i class="fas fa-check"></i>Quisque tristique neque arcu ut venenatis
-                                                felis malesuada et.</li>
+                                            <li><i class="fas fa-check"></i>Inclusive Community: Our diverse team reflects the communities we serve, and we embrace different perspectives and backgrounds.</li>
+
                                         </ul>
                                     </div>
                                     <div class="my-4">
-                                        <h3 class="mb-3">Professional Experience</h3>
-                                        <p>Quisque a nisl id sem sollicitudin volutpat. Cras et commodo quam, vel congue
-                                            ligula. Orci varius natoque penatibus et magnis dis parturient montes,
-                                            nascetur ridiculus mus. Cras quis venenatis neque. Donec volutpat tellus
-                                            lobortis mi ornare eleifend. Fusce eu nisl ut diam ultricies accumsan.
-                                            Integer lobortis vestibulum nunc id porta. Curabitur aliquam arcu sed ex
-                                            dictum, a facilisis urna porttitor. Fusce et mattis nisl. Sed iaculis libero
-                                            consequat justo auctor iaculis. Vestibulum sed ex et magna tristique
-                                            bibendum. Sed hendrerit neque nec est suscipit, id faucibus dolor convallis.
+                                        <h3 class="mb-3">Our Commitment to Diversity</h3>
+                                        <p>At Ivorygate Education Center, we celebrate diversity and are committed to creating an inclusive environment for all employees. We welcome applicants from all backgrounds and experiences.
                                         </p>
                                     </div>
                                 </div>
@@ -108,74 +59,194 @@ $page_title = "Our Careers";
                         </div>
 
 
-
-
-
-
-
-                        <div class="col-xl-4 col-lg-4">
-                            <div class="course-single-sidebar">
-                                <div class="widget">
-                                    <h4 class="widget-title">Course Info</h4>
-                                    <div class="course-single-info">
-                                        <div class="single-info author">
-                                            <div class="author-img">
-                                                <img src="assets/img/course/teacher.jpg" alt="#">
-                                            </div>
-                                            <div class="single-info-content">
-                                                <h4>Teacher</h4>
-                                                <span>Frank Mitchel</span>
-                                            </div>
-                                        </div>
-                                        <div class="single-info category">
-                                            <i class="far fa-bolt"></i>
-                                            <div class="single-info-content">
-                                                <h4>Category</h4>
-                                                <span>Science & Engineering</span>
-                                            </div>
-                                        </div>
-                                        <div class="single-info s-enroll">
-                                            <i class="far fa-users"></i>
-                                            <div class="single-info-content">
-                                                <h4>Enrolled</h4>
-                                                <span>50 Students</span>
-                                            </div>
-                                        </div>
-                                        <div class="single-info rattings">
-                                            <i class="far fa-clock"></i>
-                                            <div class="single-info-content">
-                                                <h4>Course Time</h4>
-                                                <span>04 Years</span>
-                                            </div>
-                                        </div>
-                                        <div class="single-info rattings">
-                                            <i class="far fa-dollar"></i>
-                                            <div class="single-info-content">
-                                                <h4>Course Fees</h4>
-                                                <span>$20,000</span>
-                                            </div>
-                                        </div>
+ <!-- biography & skill -->
+ <div class="biography-skil pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="biography">
+                            <h4 class="mb-3">Our Company Values</h4>
+                            <p class="mb-10">
+                            We believe that our team is our greatest asset. We are looking for passionate, creative, and qualified individuals who share our commitment to making a positive impact in education. Whether you are an experienced educator, a specialist in educational technology, or support staff, we welcome diverse perspectives and innovative ideas.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="team-skill">
+                            <h4 class="mb-3">Our Company Values </h4>
+                            <div class="skills-section">
+                                <div class="progress-box">
+                                    <h5>Continuous Learning <span class="pull-right">98%</span></h5>
+                                    <div class="progress" data-value="98">
+                                        <div class="progress-bar" role="progressbar"></div>
                                     </div>
-                                    <a href="#" class="theme-btn">Enroll Now<i class="fas fa-arrow-right-long"></i></a>
                                 </div>
-                                <div class="widget">
-                                    <h4 class="widget-title">Course Features</h4>
-                                    <div class="course-feature-list">
-                                        <a href="#"><i class="far fa-book-open"></i> Lectures <span>20</span></a>
-                                        <a href="#"><i class="far fa-pencil"></i> Quizes <span>12</span></a>
-                                        <a href="#"><i class="far fa-clock"></i> Duration <span>4 Years</span></a>
-                                        <a href="#"><i class="far fa-globe"></i> Language <span>English</span></a>
-                                        <a href="#"><i class="far fa-fill-drip"></i> Skill Level <span>Basic</span></a>
-                                        <a href="#"><i class="far fa-location-dot"></i> Location <span>On
-                                                Campus</span></a>
-                                        <a href="#"><i class="far fa-users"></i> Students <span>90</span></a>
-                                        <a href="#"><i class="far fa-graduation-cap"></i> Certificate
-                                            <span>Yes</span></a>
-                                        <a href="#"><i class="far fa-check-circle"></i> Assessments <span>Yes</span></a>
+                                <div class="progress-box">
+                                    <h5>Diversity <span class="pull-right">99%</span></h5>
+                                    <div class="progress" data-value="99">
+                                        <div class="progress-bar" role="progressbar"></div>
+                                    </div>
+                                </div>
+                                <div class="progress-box">
+                                    <h5>Purpose-driven
+                                    <span class="pull-right">99%</span></h5>
+                                    <div class="progress" data-value="99">
+                                        <div class="progress-bar" role="progressbar"></div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- biography & skill end -->
+
+        <div class="cta-area">
+            <div class="container">
+                <div class="cta-wrapper">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5 ms-lg-auto">
+                            <div class="cta-content">
+                                <h1>How to Apply</h1>
+                                <p>If you’re ready to contribute to a vibrant educational community, please click.</p>
+                                <div class="cta-btn">
+                                    <a href="#" class="theme-btn">Apply Here!<i
+                                            class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="testimonial-area ts-bg pt-80 pb-80">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Testimonials</span>
+                            <h2 class="site-title text-white">What Our Students <span>Say</span></h2>
+                            <p class="text-white">These testimonials paint a picture of the positive impact our education center has on its students, parents, and educators.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-slider owl-carousel owl-theme">
+                    <div class="testimonial-item">
+                        <div class="testimonial-rate">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <div class="testimonial-quote">
+                            <p>
+                            Joining Ivorygate education center was one of the best decisions I’ve ever made. The personalized attention I receive from my tutors has helped me improve my grades in math significantly.
+                            </p>
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="testimonial-author-info">
+                                <h4>Anthony</h4>
+                                <p>Student</p>
+                            </div>
+                        </div>
+                        <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-rate">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <div class="testimonial-quote">
+                            <p>
+                            The support from my teachers made all the difference during my college application process. They guided me through every step, and I’m proud to say I got accepted into my dream university thanks to their help!
+                            </p>
+                        </div>
+                        <div class="testimonial-content">
+
+                            <div class="testimonial-author-info">
+                                <h4>Richard</h4>
+                                <p>Student</p>
+                            </div>
+                        </div>
+                        <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-rate">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <div class="testimonial-quote">
+                            <p>
+                            I love the after-school programs! I’ve made so many friends and learned new skills in art and robotics. It makes school so much more fun and engaging!
+                            </p>
+                        </div>
+                        <div class="testimonial-content">
+
+                            <div class="testimonial-author-info">
+                                <h4>Ogechi</h4>
+                                <p>Student</p>
+                            </div>
+                        </div>
+                        <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-rate">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <div class="testimonial-quote">
+                            <p>
+                            I cannot express how grateful I am for the support my son received at Ivorygate education center. The staff is incredibly caring and dedicated, and I can see the growth in his confidence and academic performance.
+                            </p>
+                        </div>
+                        <div class="testimonial-content">
+
+                            <div class="testimonial-author-info">
+                                <h4>Linda T.</h4>
+                                <p>Parent</p>
+                            </div>
+                        </div>
+                        <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-rate">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <div class="testimonial-quote">
+                            <p>
+                            As a parent, I appreciate how Ivorygate education center emphasizes not just academic success but also personal development.
+                            </p>
+                        </div>
+                        <div class="testimonial-content">
+
+                            <div class="testimonial-author-info">
+                                <h4>Ninal Gordon</h4>
+                                <p>Parent</p>
+                            </div>
+                        </div>
+                        <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
                     </div>
                 </div>
             </div>
