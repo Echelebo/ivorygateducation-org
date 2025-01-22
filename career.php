@@ -9,10 +9,10 @@ $page_title = "Our Careers";
         <!-- breadcrumb -->
         <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
             <div class="container">
-                <h2 class="breadcrumb-title">Course Single</h2>
+                <h2 class="breadcrumb-title">Join Our Team</h2>
                 <ul class="breadcrumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
-                    <li class="active">Course Single</li>
+                    <li><a href="/">Home</a></li>
+                    <li class="active">Join Our Team</li>
                 </ul>
             </div>
         </div>
@@ -109,48 +109,7 @@ $page_title = "Our Careers";
 
 
 
-                        <!-- biography & skill -->
-        <div class="biography-skil pb-120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="biography">
-                            <h4 class="mb-3">Biography</h4>
-                            <p class="mb-10">
-                                Sed ut perspiciatis unde omnis totam rem chitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-                                If you are going to use a passage of you need to hidden in the middle of text.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="team-skill">
-                            <h4 class="mb-3">Professional Skills</h4>
-                            <div class="skills-section">
-                                <div class="progress-box">
-                                    <h5>Communication <span class="pull-right">85%</span></h5>
-                                    <div class="progress" data-value="85">
-                                        <div class="progress-bar" role="progressbar"></div>
-                                    </div>
-                                </div>
-                                <div class="progress-box">
-                                    <h5>Relationship <span class="pull-right">65%</span></h5>
-                                    <div class="progress" data-value="65">
-                                        <div class="progress-bar" role="progressbar"></div>
-                                    </div>
-                                </div>
-                                <div class="progress-box">
-                                    <h5>Creative Work <span class="pull-right">75%</span></h5>
-                                    <div class="progress" data-value="75">
-                                        <div class="progress-bar" role="progressbar"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- biography & skill end -->
+
 
 
 
