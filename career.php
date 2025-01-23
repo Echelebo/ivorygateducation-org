@@ -101,10 +101,10 @@ $page_title = "Our Careers";
             </div>
         </div>
         <!-- biography & skill end -->
-       <div class="" style="margin: auto; width: 50%;">
-       <h1>How to Apply</h1>
-       <p>If you’re ready to contribute to a vibrant educational community, please click below.</p>
-       <a href="#" class="theme-btn">Apply Here<i class="fas fa-arrow-right-long"></i></a>
+       <div class="mb-4" style="margin: auto; width: 50%;">
+       <h1 class="center">How to Apply</h1>
+       <p align="center">If you’re ready to contribute to a vibrant educational community, please click below.</p>
+       <a href="#" class="theme-btn right">Apply Here<i class="fas fa-arrow-right-long"></i></a>
         </div>
 
 
