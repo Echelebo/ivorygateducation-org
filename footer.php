@@ -54,7 +54,7 @@
                             <ul class="footer-list">
                             <li><a href="/about"><i class="fas fa-caret-right"></i>About</a></li>
                             <li><a href="/contact"><i class="fas fa-caret-right"></i>Contact</a></li>
-                                <li><a href="/resources"><i class="fas fa-caret-right"></i>Resources</a></li>
+
                                 <li><a href="/career"><i class="fas fa-caret-right"></i>Careers</a></li>
                                 <li><a href="/services"><i class="fas fa-caret-right"></i>Services</a></li>
 
