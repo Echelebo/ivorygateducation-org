@@ -1,4 +1,4 @@
-<?php
+<div?php
 $page_title = "Our Careers";
 ?>
 
@@ -101,25 +101,12 @@ $page_title = "Our Careers";
             </div>
         </div>
         <!-- biography & skill end -->
-
-        <div class="cta-area">
-            <div class="container">
-                <div class="cta-wrapper">
-                    <div class="row align-items-center">
-                        <div class="col-lg-5 ms-lg-auto">
-                            <div class="cta-content">
-                                <h1>How to Apply</h1>
-                                <p>If you’re ready to contribute to a vibrant educational community, please click.</p>
-                                <div class="cta-btn">
-                                    <a href="#" class="theme-btn">Apply Here!<i
-                                            class="fas fa-arrow-right-long"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+       <div pt-80 pb-80>
+       <h1>How to Apply</h1>
+       <p>If you’re ready to contribute to a vibrant educational community, please click below.</p>
+       <a href="#" class="theme-btn">Apply Here<i class="fas fa-arrow-right-long"></i></a>
         </div>
+
 
         <div class="testimonial-area ts-bg pt-80 pb-80">
             <div class="container">
