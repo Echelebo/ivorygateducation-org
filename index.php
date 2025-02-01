@@ -461,7 +461,7 @@ $page_title = "Home";
                                 <p>Our students have consistently achieved high scores in standardized tests, including Waec, Jamb.
                                 In 2024, 92% of our graduates were accepted into top-tier universities.</p>
                                 <div class="cta-btn">
-                                    <a href="#" class="theme-btn">Join Group Now!<i
+                                    <a href="https://forms.gle/SdWRWBRSbBXMJtZT8" class="theme-btn" target="_blank">Join Group Now!<i
                                             class="fas fa-arrow-right-long"></i></a>
                                 </div>
                             </div>

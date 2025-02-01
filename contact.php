@@ -1,4 +1,4 @@
-<?php
+<a?php
 $page_title = "Contact Us";
 ?>
 <?php include('header.php')?>
@@ -84,35 +84,14 @@ $page_title = "Contact Us";
                                     <h2>Get In Touch</h2>
                                     <p>We'd love to hear from you! If you have any questions, feedback, or inquiries, please feel free to reach out using the form below. Our team is here to assist you and will get back to you as soon as possible.</p>
                                 </div>
-                                <form method="post" action="#" id="contact-form">
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" name="name"
-                                                    placeholder="Your Name" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <input type="email" class="form-control" name="email"
-                                                    placeholder="Your Email" required>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="text" class="form-control" name="subject"
-                                            placeholder="Your Subject" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <textarea name="message" cols="30" rows="5" class="form-control"
-                                            placeholder="Write Your Message"></textarea>
-                                    </div>
-                                    <button type="submit" class="theme-btn">Send
-                                        Message <i class="far fa-paper-plane"></i></button>
+
+
+                                    <a href="https://forms.gle/56tUuSVAK4UtgN1A8" target="_blank" class="theme-btn">Send Us a
+                                        Message <i class="far fa-paper-plane"></i></a>
                                     <div class="col-md-12 mt-3">
                                         <div class="form-messege text-success"></div>
                                     </div>
-                                </form>
+
                             </div>
                         </div>
                     </div>

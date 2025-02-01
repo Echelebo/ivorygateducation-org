@@ -109,7 +109,7 @@ Ivory Gate Education has the distinction of being the a trusted educational serv
        <div class="mb-4 pt-80 pb-80" style="text-align: center; background-color: #f6f9fc;">
        <h1 >How to Apply</h1>
        <p align="center">If you’re ready to contribute to a vibrant educational community, please click below.</p>
-       <a href="#" class="theme-btn mt-4" >Apply Here<i class="fas fa-arrow-right-long"></i></a>
+       <a href="https://forms.gle/Zpu6QhsJTxBwqVbt5" target="_blank" class="theme-btn mt-4">Apply Here<i class="fas fa-arrow-right-long"></i></a>
         </div>
 
 
