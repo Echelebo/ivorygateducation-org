@@ -1,4 +1,4 @@
-<div?php
+<?php
 $page_title = "Our Careers";
 ?>
 
