@@ -28,11 +28,16 @@ $page_title = "Our Careers";
                             <div class="course-details">
 
                                 <div class="course-details">
-                                    <h3 class="mb-20">Are You Looking To Pursue a Teaching Career that Fulfills your Passion?
+                                    <h3 class="mb-20">Join the IVORY GATE Team!
                                     </h3>
                                     <p class="mb-20">
-                                    At Ivorygate Education Center, we believe that each team member plays a vital role in shaping the future of our students. Our mission is to provide high-quality education and foster a nurturing environment where learners can thrive. We are always on the lookout for passionate, dedicated individuals who share our commitment to excellence in education.
+
+Ivory Gate Education has the distinction of being the a trusted educational services partner  since 2012. Our flagship programme, Ivory Gate JAMB Intensive has helped hundreds of students gain admission to their choice universities, to the joy and admiration of their family and friends. The success of the programme has made us to expand into SAT coaching, Common Entrance coaching, grade enhancement programmes for JSS and SSS students and Youth Development.
+
+
                                     </p>
+                                    <p>Today, more than ever, we remain steadfast in our mission to provide excellence in educational services both within Abuja and across the nation.</p>
+                                    <p>Do you have what it takes to be part of the IVORY GATE Team? If you believe you have the skills to impart a love for learning, then join us now!</p>
 
 
 
